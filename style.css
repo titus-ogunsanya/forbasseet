@@ -6,7 +6,7 @@
 
 #head-nav{
     width: 80%;
-    background-color: rgb(166, 212, 204);
+    background-color: rgb(32, 196, 141);
     line-height: 40px;
     text-align: center;
     margin: 20px auto;
@@ -28,7 +28,7 @@
 
 #sub-nav{
     width: 80%;
-    background-color: rgb(166, 212, 204);
+    background-color: rgb(32, 196, 141);;
     line-height: 50px;
     text-align: center;
     margin: 20px auto;
@@ -63,7 +63,7 @@
 }
 
 #cont1, #cont2, #cont3{
-    background-color: rgb(166, 212, 204);
+    background-color: rgb(32, 196, 141);;
     text-align: center;
     text-transform: uppercase;
    
